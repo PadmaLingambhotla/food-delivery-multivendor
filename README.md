@@ -65,14 +65,11 @@ Our solution is open source but the backend and API are proprietary, and can be 
 - [:book: What is included](#heading-1)
 - [:rocket: Features](#heading-2)
 - [:wrench: Setup](#heading-3)
-- [:gear: Prerequisites](#heading-4)
 - [:computer: Technologies](#heading-5)
 - [:camera: Screenshots](#heading-6)
 - [:triangular_ruler: High Level Architecture](#heading-7)
-- [:page_with_curl: Documentation](#heading-8)
 - [:movie_camera: Demo Videos](#heading-14)
 - [:video_game: Demos](#heading-9)
-- [:busts_in_silhouette: Contributors](#heading-10)
 - [:warning: Disclaimer](#heading-12)
 - [:email: Contact Us](#heading-13)
 
@@ -122,42 +119,7 @@ The version of nodejs should be between 14.0 to 16.0
 
 [![Guide Badge](https://img.shields.io/badge/Do_with_guided_tutorial-blue?style=for-the-badge&logo=book-reader)](https://enatega.com/multi-vendor-doc/)
 
-## :information_source: Prerequisites: <a id="heading-4"></a>
 
-App Ids for Mobile App in app.json
-
-- Facebook Scheme
-- Facebook App Id
-- Facebook Display Name
-- iOS Client Id Google
-- Android Id Google
-- Amplitude Api Key
-- server url
-
-Set credentials in API in file helpers/config.js and helpers/credentials.js
-
-- Email User Name
-- Password For Email
-- Mongo User
-- Mongo Password
-- Mongo DB Name
-- Reset Password Link
-- Admin User name
-- Admin Password
-- User Id
-- Name
-
-Set credentials in Admin Dashboard in file src/index.js
-
-- Firebase Api Key
-- Auth Domain
-- Database Url
-- Project Id
-- Storage Buck
-- Messaging Sender Id
-- App Id
-
-NOTE: Email provider has been only been tested for gmail accounts
 
 ## :hammer_and_wrench: Technologies: <a id="heading-5"></a>
 
@@ -195,9 +157,6 @@ NOTE: Email provider has been only been tested for gmail accounts
 
 ![](./assets/high-level.webp)
 
-## :book: Documentation <a id="heading-8"></a>
-
-Find the link for the complete documentation of the Enatega Multi Vendor Solution [here](https://enatega.com/multivendor-documentation/).
 
 ## :tv: Demo Videos: <a id="heading-14"></a>
 
@@ -212,14 +171,7 @@ Find the link for the complete documentation of the Enatega Multi Vendor Solutio
 |                                                                                          <a href="#heading-9" style="pointer-events: none;"><img src="./assets/logooo.png" alt="Enatega Logos" width="150"></a>                                                                                           |                                                                                          <a href="#heading-9" style="pointer-events: none;"><img src="./assets/Untitled-1-1.png" alt="Enatega Logos" width="150"></a>                                                                                          |                                                                                            <a href="#heading-9" style="pointer-events: none;"><img src="./assets/LOGOS-FOR-ENATGEA-res.png" alt="Enatega Logos" width="150"></a>                                                                                            | <a href="http://multivendor.enatega.com/"><img src="./assets/worldwide.png" alt="Enatega Logos" width="180"></a> | <a href="http://multivendor-admin.enatega.com/"><img src="./assets/worldwide.png" alt="Enatega Logos" width="180"></a> |
 | <a href="https://play.google.com/store/apps/details?id=com.enatega.multivendor"><img src="./assets/android_518705.png" alt="Android Logo" width="25"></a> <a href="https://apps.apple.com/pk/app/enatega-multivendor/id1526488093"><img src="./assets/social_10096939.png" alt="iOS Logo" width="25"></a> | <a href="https://play.google.com/store/apps/details?id=com.enatega.multirider"><img src="./assets/android_518705.png" alt="Android Logo" width="25"></a> <a href="https://apps.apple.com/pk/app/enatega-mulitvendor-rider/id1526674511"><img src="./assets/social_10096939.png" alt="iOS Logo" width="25"></a> | <a href="https://play.google.com/store/apps/details?id=multivendor.enatega.restaurant"><img src="./assets/android_518705.png" alt="Android Logo" width="25"></a> <a href="https://apps.apple.com/pk/app/enatega-multivendor-restaurant/id1526672537"><img src="./assets/social_10096939.png" alt="iOS Logo" width="25"></a> |
 
-## :people_holding_hands: Contributors: <a id="heading-10"></a>
 
-<div align="center">
-<br>
-<a href="https://github.com/Ninjas-Code-official/Enatega-Multivendor-Food-Delivery-Solution/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Ninjas-Code-official/Enatega-Multivendor-Food-Delivery-Solution" style="max-width: 50%; height: auto;" />
-</a>
-</div>
 
 ## :warning: Disclaimer: <a id="heading-12"></a>
 
